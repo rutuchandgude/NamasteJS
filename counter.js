@@ -1,21 +1,3 @@
-// let myAge=21
-// let humanDogRatio=7
-// let myDogAge=myAge * humanDogRatio
-// console.log(myDogAge)
-
-
-// var x=7;
-// function getName()
-// {
-//     console.log("Namaste Javascript");
-// }
-// getName();
-// console.log(x);
-
-
-
-
-
 // //counter using let 
 // function x(){
 //     for(let i=1;i<=5;i++){
