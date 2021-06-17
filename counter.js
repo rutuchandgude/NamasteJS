@@ -21,6 +21,7 @@ function x()
         }
         close(i);
     }
+    
 
     console.log("Namaste Javascript");
 }
